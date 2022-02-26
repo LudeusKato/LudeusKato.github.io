@@ -60,7 +60,7 @@ h1 {
     right: 0;
     bottom: -17%;
     left: 0;
-    background-image: url('../img/yepale.gif');
+    background-image: url('../../assets/img/yepale.gif');
     background-repeat: no-repeat;
     background-size: 1450px;
     filter: brightness(0.75) blur(0px) saturate(175%);
