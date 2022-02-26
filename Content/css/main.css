@@ -61,7 +61,6 @@ h1 {
     bottom: 0;
     left: 0;
     background-image: url('../img/yepale.gif');
-    background-repeat: no-repeat;
     filter: brightness(0.35) blur(1px) saturate(175%);
 }
 
