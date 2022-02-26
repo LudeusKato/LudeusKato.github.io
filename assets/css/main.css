@@ -56,12 +56,14 @@ h1 {
 
 .fullscreen .background {
     position: absolute;
-    top: -4%;
+    top: -5%;
     right: 0;
-    bottom: 0;
+    bottom: -17%;
     left: 0;
     background-image: url('../img/yepale.gif');
-    filter: brightness(0.50) blur(0px) saturate(175%);
+    background-repeat: no-repeat;
+    background-size: 1450px;
+    filter: brightness(0.75) blur(0px) saturate(175%);
 }
 
 .center-object {
@@ -96,7 +98,7 @@ h1 {
 
 .buttons {
     padding: 1rem 0;
-    height: auto;
+    height: 150%;
     width: 100%;
     display: flex;
     justify-content: center;
