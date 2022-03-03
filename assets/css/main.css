@@ -56,13 +56,13 @@ h1 {
 
 .fullscreen .background {
     position: absolute;
-    top: -5%;
+    top: -10%;
     right: 0;
-    bottom: -17%;
+    bottom: 0;
     left: 0;
     background-image: url('../../assets/img/yepale.gif');
     background-repeat: no-repeat;
-    background-size: 1450px;
+    background-size: cover;
     filter: brightness(0.75) blur(0px) saturate(175%);
 }
 
