@@ -63,14 +63,18 @@ h1 {
 
 .fullscreen .background {
     position: absolute;
-    top: -5%;
+    top: -10%;
     right: 0;
-    bottom: -17%;
+    bottom: 0;
     left: 0;
-    /* background-image: url('../../assets/img/yepale.gif');*/
+    /* background-image: url('../../assets/img/Collage.png');*/
     background-repeat: no-repeat;
+<<<<<<< HEAD
     background-size: 1200px;
     margin: 0px 200px 20px 0px;
+=======
+    background-size: cover;
+>>>>>>> 6c15b7f9cd457f3bc38fec9bb374687f92edc686
     filter: brightness(0.75) blur(0px) saturate(175%);
 }
 
