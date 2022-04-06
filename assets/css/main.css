@@ -54,15 +54,23 @@ h1 {
     color: #000;
 }
 
+.yepale{
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
 .fullscreen .background {
     position: absolute;
     top: -5%;
     right: 0;
     bottom: -17%;
     left: 0;
-    background-image: url('../../assets/img/yepale.gif');
+    /* background-image: url('../../assets/img/yepale.gif');*/
     background-repeat: no-repeat;
-    background-size: 1450px;
+    background-size: 1200px;
+    margin: 0px 200px 20px 0px;
     filter: brightness(0.75) blur(0px) saturate(175%);
 }
 
