@@ -69,8 +69,7 @@ h1 {
     left: 0;
     /* background-image: url('../../assets/img/Collage.png');*/
     background-repeat: no-repeat;
-    background-size: 1200px;
-    margin: 0px 200px 20px 0px;
+    background-size: cover;
     filter: brightness(0.75) blur(0px) saturate(175%);
 }
 
